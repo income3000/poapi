@@ -14,5 +14,4 @@ Rails.application.routes.draw do
     resources :officers
   end
 end
-
 end
