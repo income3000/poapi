@@ -45,5 +45,5 @@ group :development, :test do
   # Omakase Ruby styling [https://github.com/rails/rubocop-rails-omakase/]
   gem "rubocop-rails-omakase", require: false
   # Ensure a Rails-compatible minitest version
-  gem "minitest", "~> 5.14"
+  gem "minitest", "~> 6.0"
 end
